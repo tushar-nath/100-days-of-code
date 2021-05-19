@@ -10,3 +10,7 @@
                       2. Learnt the basic idea of stacks and heaps and their implementation
                       3. Solved hackerrank problem : https://www.hackerrank.com/challenges/c-tutorial-strings/problem on strings
                       4. Solved hackerrank problem : https://www.hackerrank.com/challenges/c-tutorial-struct/problem on structure
+
+### Day 1: 18 May, 2021
+
+**Today's Progress**: Did a basic revision on Strings. Didn't code much today. Solved a bunch of hackerank questions. Got 4 stars on hackerrank, so yay! 
