@@ -11,6 +11,10 @@
                       3. Solved hackerrank problem : https://www.hackerrank.com/challenges/c-tutorial-strings/problem on strings
                       4. Solved hackerrank problem : https://www.hackerrank.com/challenges/c-tutorial-struct/problem on structure
 
-### Day 1: 18 May, 2021
+### Day 3: 18 May, 2021
 
 **Today's Progress**: Did a basic revision on Strings. Didn't code much today. Solved a bunch of hackerank questions. Got 4 stars on hackerrank, so yay! 
+
+### Day 4: 19 May, 2021
+
+**Today's Progress**: Did more problems on Strings, Vectors and Sets. Solved a bunch of questions on Hackerank and Leetcode. Quiet a productive day!
