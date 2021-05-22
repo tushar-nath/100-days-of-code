@@ -18,3 +18,11 @@
 ### Day 4: 19 May, 2021
 
 **Today's Progress**: Did more problems on Strings, Vectors and Sets. Solved a bunch of questions on Hackerank and Leetcode. Quiet a productive day!
+
+### Day 5: 20 May, 2021
+
+**Today's Progress**: Solved a bunch of problems on hackerrank and leetcode. Got a gold badge in C++ in hackerrank and also cleared the assesment skill test of LinkedIn.
+
+### Day 6: 21 May, 2021
+
+**Today's Progress**: Solved leetcode only. Not a productive day.
