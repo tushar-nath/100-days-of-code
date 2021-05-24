@@ -26,3 +26,7 @@
 ### Day 6: 21 May, 2021
 
 **Today's Progress**: Solved leetcode only. Not a productive day.
+
+### Day 7: 22 May, 2021
+
+**Today's Progress**: Learnt Sieve of Eratosthene and implemented it on prime numbers and prime factors.
