@@ -31,6 +31,7 @@
 
 **Today's Progress**: Learnt Sieve of Eratosthene and implemented it on prime numbers and prime factors.
 
-### Day 8: 23 May, 2021
+### Day 8: 24 May, 2021
 
 **Today's Progress**: 1. Learnt about Inclusion and Exclusion. Implemented Euclid's Algo.
+                      2. Made a ReadMe file for my github profile.
