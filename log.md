@@ -35,3 +35,7 @@
 
 **Today's Progress**: 1. Learnt about Inclusion and Exclusion. Implemented Euclid's Algo.
                       2. Made a ReadMe file for my github profile.
+
+### Day 9: 25 May, 2021
+
+**Today's Progress**: Learnt about Recursion, and solved some basic problems on it. Succesfully submitted a Div 2 problem on Codeforces.
