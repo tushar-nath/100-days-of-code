@@ -39,3 +39,7 @@
 ### Day 9: 25 May, 2021
 
 **Today's Progress**: Learnt about Recursion, and solved some basic problems on it. Succesfully submitted a Div 2 problem on Codeforces.
+
+### Day 10: 26 May, 2021
+
+**Today's Progress**: Practised a lot of problems on Recursions. And succesfully attempted 4 questions from leetcode and codeforces.
