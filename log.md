@@ -43,3 +43,7 @@
 ### Day 10: 26 May, 2021
 
 **Today's Progress**: Practised a lot of problems on Recursions. And succesfully attempted 4 questions from leetcode and codeforces.
+
+### Day 11: 27 May, 2021
+
+**Today's Progress**: Solved Codeforces Div 2 problems.
