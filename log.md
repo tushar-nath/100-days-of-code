@@ -51,3 +51,7 @@
 ### Day 12: 28 May, 2021
 
 **Today's Progress**: Learnt and implemented Tower of Hanoi using Recursion. Gave a Codeforces Div 2 contest, couldn't solve anything. Not even problem A. Ig I gotta practise more.
+
+### Day 13: 29 May, 2021
+
+**Today's Progress**: Solved problems on codeforces.
