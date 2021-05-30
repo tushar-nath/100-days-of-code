@@ -18,7 +18,7 @@ int main()
 
     for (int i=0; i<l; i++)
     {
-        if(c[i]!='a' && c[i]!='e' && c[i]!='i' && c[i]!='o' && c[i]!='u' )
+        if(c[i]!='a' && c[i]!='e' && c[i]!='i' && c[i]!='o' && c[i]!='u' && c[i]!='y' )
         {
             cout<<".";
             cout<<c[i];
