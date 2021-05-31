@@ -59,3 +59,7 @@
 ### Day 14: 30 May, 2021
 
 **Today's Progress**: Solved problems on codeforces. Participated in Codechef contest. Got two stars in Codechef!
+
+### Day 15: 31 May, 2021
+
+**Today's Progress**: Gave Codechef Lunctime contest! Could have done better. 
