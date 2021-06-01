@@ -63,3 +63,7 @@
 ### Day 15: 31 May, 2021
 
 **Today's Progress**: Gave Codechef Lunctime contest! Could have done better. 
+
+### Day 16: 1 June, 2021
+
+**Today's Progress**: Did some upsolving from last night's competition. And brainstormed ideas for a hackathon! 
