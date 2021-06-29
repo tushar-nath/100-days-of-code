@@ -40,11 +40,11 @@ void heist()
     int n=((D-(D%d))/d);
     for(int i=0; i<n; i++)
     {
+        sum+=((P+(i*Q)))*d;
         if(i==n-1)
         {
             sum+=((P+((i+1)*Q)))*(D%d);
         }
-        sum+=((P+(i*Q)))*d;
     }
     cout<<sum<<endl;
 }
