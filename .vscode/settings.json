@@ -5,6 +5,9 @@
         "ios": "cpp",
         "memory": "cpp",
         "regex": "cpp",
-        "utility": "cpp"
+        "utility": "cpp",
+        "algorithm": "cpp",
+        "random": "cpp",
+        "iostream": "cpp"
     }
 }
