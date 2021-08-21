@@ -9,6 +9,7 @@
         "algorithm": "cpp",
         "random": "cpp",
         "iostream": "cpp",
-        "stack": "cpp"
+        "stack": "cpp",
+        "vector": "cpp"
     }
 }
